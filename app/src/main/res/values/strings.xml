@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Desafio1Repaso</string>
     <string name="Password">Ingrese Password</string>
+    <string name="ingrese_nombre">Ingrese Nombre</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="todo">TODO</string>
 </resources>
